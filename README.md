@@ -1,4 +1,4 @@
-### hey there
+### Hey There👋
 
 I'm Oluwaseun,frontend developer.I design and develop and I Really enjoy learning more about webdevelopment.
 
